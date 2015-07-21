@@ -1,6 +1,11 @@
 # ITcat Test Application
 
-Ergänzungen gegenüber [ITcat_v020](https://github.com/ITcatalog/ITcat/blob/eb2095a1415503db473e17a36e992edda301d09d/itcat_v020.ttl)
+SPARQL Queries auf Basis von [sparqllib](http://graphite.ecs.soton.ac.uk/sparqllib/)
+
+
+
+
+## Änderungen gegenüber [ITcat_v020](https://github.com/ITcatalog/ITcat/blob/eb2095a1415503db473e17a36e992edda301d09d/itcat_v020.ttl)
 
 - itcat:ServiceKategorie (*Beispiel Lehrportal hasITService Moodle*) // besser: ServiceCategorie
 - itcat:hasITService (owl:inverseOf hasServiceCategorie)
