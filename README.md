@@ -25,6 +25,5 @@ Data Properties "Service"
 
 
 
-
-Diskussion:
-- Verwendung von skos:prefLabel anstelle von rdfs:label sinnvoll?
+## Offene Fragen
+- Verwendung von skos:prefLabel anstelle von rdfs:label sinnvoll? (Beispiel Name eines IT-Services)
