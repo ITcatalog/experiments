@@ -4,7 +4,7 @@ Demo IT-Service-Catalog auf Basis eines annotieren HTML-Dokuments.
 
 ## Technologien 
 - Apache2 Web Server
-- Apache Jena Fuseki Service (Triple Store)
+- Apache Jena Fuseki Server (Triple Store)
 - [sparqllib](http://graphite.ecs.soton.ac.uk/sparqllib/) (PHP Library für Sparql Queries)
 - [RDF Translator](http://rdf-translator.appspot.com/) (RDF Parser)
 
